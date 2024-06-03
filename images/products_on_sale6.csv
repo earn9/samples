@@ -1,0 +1,9 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_IMAGE,PAGE_URL,UNIT_PRICE,COLOR_ID,DEPARTMENT_ID,CLOTHING_ID,ON_SALE,CURRENCY
+21,Girl's Pyjamas (White),https://raw.githubusercontent.com/earn9/samples/main/images/21.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=21,39.78,6,1,3,35.58,USD
+26,Girl's Hoodie (White),https://raw.githubusercontent.com/earn9/samples/main/images/26.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=26,39.91,5,1,11,35.51,USD
+1,Boy's Shirt (White),https://raw.githubusercontent.com/earn9/samples/main/images/1.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=1,29.55,5,2,6,20.35,USD
+42,Boy's Jeans (Black),https://raw.githubusercontent.com/earn9/samples/main/images/42.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=42,16.64,6,2,7,12.54,USD
+43,Boy's Trousers (Black),https://raw.githubusercontent.com/earn9/samples/main/images/43.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=43,39.32,7,2,4,30.22,USD
+44,Women's Coat (Black),https://raw.githubusercontent.com/earn9/samples/main/images/44.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=44,31.68,6,3,1,24.28,USD
+45,Men's Jeans (Grey),https://raw.githubusercontent.com/earn9/samples/main/images/45.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=45,27.64,1,4,7,20.64,USD
+46,Girl's Trousers (Red),https://raw.githubusercontent.com/earn9/samples/main/images/46.png,https://apex.oraclecorp.com/pls/apex/r/dzevulskii_oracle/nextshop138/product-details?p19_product_id=46,39.16,2,1,4,30.16,USD
